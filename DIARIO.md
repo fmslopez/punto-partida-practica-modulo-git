@@ -27,4 +27,22 @@ La Pestaña Files changes nos sirve para valorar la diferencia que tenemos entre
 
 <img width="1598" height="965" alt="captura 4" src="https://github.com/user-attachments/assets/92689c80-de3c-473c-b35c-01f6064c7943" />
 
+Tarea 5
+
+Los marcadores <<<<<<<, ======= y >>>>>>> significan que lo que hay entre << y == es nuestra versión y lo que hay entre == y >> origin/dev es la versión de dev.
+El criterio por el cual he decidido la versión a conservar es la de conservar solo mi versión, es decir, Accept Current Change
+
+<img width="1427" height="852" alt="captura 5" src="https://github.com/user-attachments/assets/9b1e89d6-2b75-491f-bc76-8ee37a8de1b9" />
+
+<img width="1918" height="942" alt="captura 6" src="https://github.com/user-attachments/assets/fe815a23-bff5-474c-91c4-e8a58bf164c3" />
+
+<img width="1667" height="880" alt="captura 7" src="https://github.com/user-attachments/assets/fd5927cf-6810-4eec-8b88-25bed97feeac" />
+
+
+
+
+
+
+
+
 
