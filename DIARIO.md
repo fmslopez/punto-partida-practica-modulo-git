@@ -38,6 +38,12 @@ El criterio por el cual he decidido la versión a conservar es la de conservar s
 
 <img width="1667" height="880" alt="captura 7" src="https://github.com/user-attachments/assets/fd5927cf-6810-4eec-8b88-25bed97feeac" />
 
+Tarea 6
+Las tareas 3, 4 y 5 me han resultado más dificiles (practicandolo más, me resultará más sencillo, pero desde inicio sin tener un conocimiento de git, resulta algo tedioso). Tiene su sentido y resulta muy interesante su práctica.
+
+
+<img width="1121" height="833" alt="captura 8" src="https://github.com/user-attachments/assets/b03e0a96-5895-4b19-8099-1dafcb13dd42" />
+
 
 
 
