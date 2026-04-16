@@ -15,3 +15,9 @@ Tarea 2
 
 
 La rama parte desde dev porque en el paso anterior nos hemos quedado en la rama dev y no es correcto utilizar la rama main para no cometer errores dentro de la misma.
+
+Tarea 3
+Un conflicto surge cuando partiendo desde una misma rama, otras ramas "hijas" creadas modifican un mismo fichero y entonces cuando se intenta hacer un merge se produce el conflicto.
+En el ejemplo de la práctica se produce porque tenemos 2 ramas que parten desde dev y las dos modifican el mismo fichero app.tsx.
+
+
